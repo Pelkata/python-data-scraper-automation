@@ -1,0 +1,14 @@
+# Python cache & compiled files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Project output data
+market_data_log.csv
+
+# Sensitive environment variables
+.env
